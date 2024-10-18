@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/swivl-test-app/static/js/main.80173926.js",
+    "static/media/icon_link.svg": "/swivl-test-app/static/media/icon_link.d14a9cbac02159de5d227903fa014612.svg",
+    "static/media/notifications.svg": "/swivl-test-app/static/media/notifications.070357f4be08e6eefcc7272579820302.svg",
+    "static/media/icon_report.svg": "/swivl-test-app/static/media/icon_report.f2d5b2c0c37ff3822c9283a229132bee.svg",
+    "static/media/icon_like.svg": "/swivl-test-app/static/media/icon_like.5415f72b642277a61f4776a215849253.svg",
+    "static/media/share.svg": "/swivl-test-app/static/media/share.7b9da233499c41aa1bd2b28811898225.svg",
+    "static/media/icon_view.svg": "/swivl-test-app/static/media/icon_view.0dbe36547218dbc2e595df4b2aaf9feb.svg",
+    "static/media/edit.svg": "/swivl-test-app/static/media/edit.4227752e083c6689d583e502ec2b4788.svg",
+    "static/media/medium.svg": "/swivl-test-app/static/media/medium.23545554ac08ebae5adef1d26d8e4949.svg",
+    "index.html": "/swivl-test-app/index.html",
+    "static/media/icon_block.svg": "/swivl-test-app/static/media/icon_block.e2b2b0a77cfcd89611004df76a14f21e.svg",
+    "static/media/plus.svg": "/swivl-test-app/static/media/plus.0cb65282a38df4247346e19f2c50beb5.svg",
+    "static/media/icon-arrow-down.svg": "/swivl-test-app/static/media/icon-arrow-down.5719927fd281b4cd2ad24211b17d5064.svg",
+    "main.80173926.js.map": "/swivl-test-app/static/js/main.80173926.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.80173926.js"
+  ]
+}
